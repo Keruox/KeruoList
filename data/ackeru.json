@@ -2,7 +2,7 @@
     "id": 91972050,
     "name": "AcKerU",
     "author": "Keruo",
-    "creators": ["Keruo"],
+    "creators": [],
     "verifier": "Keruo",
     "verification": "https://cdn.discordapp.com/attachments/1111901596671037460/1123721910937714718/2023-06-28_16-53-14.mp4",
     "percentToQualify": 100,
@@ -10,7 +10,7 @@
       {
           "user": "Smoofy"
           "link": "N/A"
-          "percent:" 100,
+          "percent": 100,
           "hz": "360"
       }
     ]
