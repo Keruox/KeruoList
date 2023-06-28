@@ -1,0 +1,17 @@
+{
+    "id": 91972050,
+    "name": "VSK",
+    "author": "Grilled",
+    "creators": [],
+    "verifier": "Grilled",
+    "verification": "https://www.youtube.com/watch?v=wd_EZBN4eBw&feature=youtu.be",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Keruo",
+          "link": "https://youtu.be/qyjNCR6gdvQ",
+          "percent": 100,
+          "hz": "240"
+      }
+    ]
+}
