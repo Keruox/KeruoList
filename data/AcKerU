@@ -1,0 +1,17 @@
+{
+    "id": 91972050,
+    "name": "AcKerU",
+    "author": "Keruo",
+    "creators": [Keruo],
+    "verifier": "Keruo",
+    "verification": "Link",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Smoofy"
+          "link": "N/A"
+          "percent:" 100,
+          "hz": "360"
+      }
+    ]
+}
