@@ -8,8 +8,8 @@
     "percentToQualify": 100,
     "records": [
       {
-          "user": "Smoofy"
-          "link": "N/A"
+          "user": "Smoofy",
+          "link": "N/A",
           "percent": 100,
           "hz": "360"
       }
