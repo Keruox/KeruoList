@@ -6,5 +6,12 @@
     "verifier": "Keruo",
     "verification": "https://youtu.be/wlkmGCbRBHQ",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+             {
+          "user": "Grilled",
+          "link": "https://www.youtube.com/watch?v=Pw42SBMw6xE&feature=youtu.be&ab_channel=GrilledTG",
+          "percent": 100,
+          "hz": "360"
+      }
+    ]
 }
