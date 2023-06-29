@@ -7,11 +7,11 @@
     "verification": "https://youtu.be/817ulKwmIns",
     "percentToQualify": 100,
     "records": [
-     {
-         "user": "Keruo",
+      {
+          "user": "Keruo",
           "link": "https://youtu.be/ThOWJcvOojI",
           "percent": 100,
           "hz": "240"
-     }
+      }
     ]
 }
